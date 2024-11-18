@@ -34,6 +34,7 @@
 
 ## Project Structure
 - `com/segma/Main.java`: The main class that contains the game logic and user interface.
+```
 TicTacToe-Java/
 ├── com/
 │   └── segma/
@@ -41,3 +42,4 @@ TicTacToe-Java/
 ├── images/
 │   └── game_preview.png   # Screenshot of the game
 └── README.md
+```
