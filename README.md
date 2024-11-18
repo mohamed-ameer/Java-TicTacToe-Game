@@ -1,9 +1,7 @@
 # TicTacToe-Java
 
 ### A simple Tic-Tac-Toe game built using Java for two players. 
-
-![Game Preview](images/game_preview.png)
-
+   ![Game Preview](images/1.PNG)
 ---
 
 ## Features
@@ -12,7 +10,6 @@
 - Easy-to-use command-line interface
 - Input validation to prevent overwriting spots
 - Automatically detects the winner or a draw
-
 ---
 
 ## Gameplay Instructions
@@ -30,10 +27,10 @@
    java com.segma.Main
    ```
 5. Follow the on-screen instructions to make your moves:
-   ![Game Preview](images/1.png)
-   ![Game Preview](images/2.png)
-   ![Game Preview](images/3.png)
-   ![Game Preview](images/4.png)
+   ![Game Preview](images/1.PNG)
+   ![Game Preview](images/2.PNG)
+   ![Game Preview](images/3.PNG)
+   ![Game Preview](images/4.PNG)
 
 ## Project Structure
 - `com/segma/Main.java`: The main class that contains the game logic and user interface.
